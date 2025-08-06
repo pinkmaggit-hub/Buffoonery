@@ -44,7 +44,7 @@ SMODS.current_mod.extra_tabs = function()
               n = G.UIT.R,
               config = { align = 'cr', minh = 0.25 },
               nodes = {
-                { n = G.UIT.T, config = { text = 'BurAndBY (RU)', colour = G.C.WHITE, scale = 0.4 } }
+                { n = G.UIT.T, config = { text = 'BurAndBY + Nulle0 (RU)', colour = G.C.WHITE, scale = 0.4 } }
               }
             },
 			{
