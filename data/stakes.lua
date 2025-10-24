@@ -25,7 +25,7 @@ SMODS.Stake{ -- Spinel Stake
     prefix_config = {above_stake = {mod = false}, applied_stakes = {mod = false}},
 
     modifiers = function()
-		G.GAME.win_ante = G.GAME.win_ante * 1.5
+		G.GAME.win_ante = math.floor(G.GAME.win_ante * 1.5)
     end,
 
     colour = HEX('e1345d'),
