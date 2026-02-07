@@ -3,6 +3,7 @@ SMODS.Joker {
 	name = "Clown",
 	atlas = "buf_jokers",
 	pos = { x = 6, y = 2 },
+	pools = {Music = true},
     unlocked = true,
     discovered = false,
     eternal_compat = true,
