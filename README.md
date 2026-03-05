@@ -1,16 +1,9 @@
-<!--
-Flowire Note: I can't speak Portuguese and using a Translator isn't a good choice. :>
-<sup>Supported languages:</sup> [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/pinkmaggit-hub/Buffoonery/blob/main/README.pt-br.md) [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pinkmaggit-hub/Buffoonery/blob/main/README.md)
--->
 <div align="center">
   <img src="repo/Logo.png" alt="Buffoonery Logo"/>
 </div>
 
 ___
-<p align="center">
-  <a href="README.md">🇺🇸 English</a> |
-  <a href="README.pt.md">🇧🇷 Português</a>
-</p>
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/pinkmaggit-hub/Buffoonery/blob/main/README.pt-br.md) [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pinkmaggit-hub/Buffoonery/blob/main/README.md)
 
 # Buffoonery
 A Balatro mod that aims to add vanilla-adjacent content while maintaining its own style:
