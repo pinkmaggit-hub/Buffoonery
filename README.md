@@ -19,7 +19,7 @@ A Balatro mod that aims to add vanilla-adjacent content while maintaining its ow
 - 2 Stakes
   > After Gold Stake
 
-<br>**<ins>Recommended</ins>: Download the [latest Release](https://github.com/FlowireXen/Buffoonery_FlowMod/releases/tag/v2.0.0_Rework_Early)!**
+<br>**<ins>Recommended</ins>: Download the [latest Release](https://github.com/pinkmaggit-hub/Buffoonery/releases)!**
 <!-- <br>**<ins>Recommended</ins>: Download the [latest Release](https://github.com/pinkmaggit-hub/Buffoonery/releases)!** -->
 
 # Content
