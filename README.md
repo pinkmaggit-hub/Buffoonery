@@ -7,6 +7,11 @@ Flowire Note: I can't speak Portuguese and using a Translator isn't a good choic
 </div>
 
 ___
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> |
+  <a href="README.pt.md">🇧🇷 Português</a>
+</p>
+
 # Buffoonery
 A Balatro mod that aims to add vanilla-adjacent content while maintaining its own style:
 
